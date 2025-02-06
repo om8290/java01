@@ -1,5 +1,6 @@
 package Assisment2;
 
+import java.util.ArrayDeque;
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
@@ -14,5 +15,8 @@ public class Insertion{
         System.out.println("HashSet : " + hashSet);
 
         System.out.println("TreeSet : " + treeSet);
+
+
+        ArrayDeque<Integer
     }
 }
